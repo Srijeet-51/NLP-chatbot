@@ -1,0 +1,8 @@
+chatbot-support/
+│
+├── app.py                   # Streamlit app
+├── chatbot.py               # NLP logic and response handling
+├── intents.json             # Intents and sample responses
+├── train_model.py           # Train and save model (optional)
+├── model.pkl                # Saved trained model
+└── requirements.txt         # Python dependencies
